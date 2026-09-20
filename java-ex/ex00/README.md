@@ -1,4 +1,4 @@
-#In Equality Printer is a method that takes as input 3 numbers and if the numbers
+#InEqualityPrinter is a method that takes as input 3 numbers and if the numbers
 ```bash
 # To call the method first compile: 
 
