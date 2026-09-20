@@ -1,6 +1,7 @@
 #In Equality Printer is a method that takes as input 3 numbers and if the numbers
-- To call the method first compile: 
 ```bash
+# To call the method first compile: 
+
 javac *.javac 
 
 # and then:
